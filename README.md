@@ -13,12 +13,6 @@ I am looking to join a team where I can bring my design experience, developing m
 | **[Acebook]** | A webapp to replicate facebook. | Ruby/Rails, React, Bootstrap, RSpec |
 | **[Sweepstake]** | A webapp to generate sporting sweepstakes. | Ruby/Rails, Bootstrap, RSpec |
 
-## Github Stats
-
-![All Stats](https://github-readme-stats.vercel.app/api?username=DylanRJ&show_icons=true&include_all_commits=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Skills
 
 - HTML
@@ -99,6 +93,12 @@ I am looking to join a team where I can bring my design experience, developing m
 - Core Modules: Media Law & Ethics, Promotional Culture, Interactive Media Production
 - 2:1 (Upper Division)
 - A final project to build a web front-end to showcase a music genre.
+
+## Github Stats
+
+![All Stats](https://github-readme-stats.vercel.app/api?username=DylanRJ&show_icons=true&include_all_commits=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hobbies
 
