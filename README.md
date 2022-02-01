@@ -96,7 +96,7 @@ I am looking to join a team where I can bring my design experience, developing m
 
 ## Github Stats
 
-![All Stats](https://github-readme-stats.vercel.app/api?username=DylanRJ&show_icons=true&include_all_commits=true&count_private=true)
+![All Stats](https://github-readme-stats.vercel.app/api?username=DylanRJ&show_icons=true&include_all_commits=true&count_private=true&theme=panda)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRJ&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
