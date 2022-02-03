@@ -79,12 +79,12 @@ I am looking to join a team where I can bring my design experience, developing m
 
 **Software Development Bootcamp** (September 2021 - January 2022)
 
-- Highly selective 16 week software development bootcamp using Ruby, Rails, React and JavaScript Frameworks
-- Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jest
+- Highly selective 16 week software development bootcamp.
+- Emphasis on Test-driven development (TDD), pair-programming and agile workflows, as well as emotional intelligence and XP values.
+- Focus on becoming "language agnostic" and able to adapt to new languages with ease.
+- Encouraged independant learning and problem-solving.
+- Specifically taught Ruby (with Rspec) and JavaScript (with Jest).
+- Full stack web development, including web frameworks like Ruby on Rails and ReactJs.
 
 ### Goldsmiths, University of London
 
