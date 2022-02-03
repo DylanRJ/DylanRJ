@@ -90,10 +90,10 @@ I am looking to join a team where I can bring my design experience, developing m
 
 **BA (Hons), Media & Communcations** (September 2014 - August 2018)
 
-- Core Modules: Media Law & Ethics, Promotional Culture, Interactive Media Production
-- 2:1 (Upper Division)
-- A final project to build a web front-end to showcase a music genre.
-
+- Core Modules: Media Law & Ethics, Promotional Culture, Interactive Media Production.
+- 2:1 (Upper Division).
+- A final project to build a web front-end to showcase a music genre using HTML, CSS & jQuery.
+- 
 ## Github Stats
 
 ![All Stats](https://github-readme-stats.vercel.app/api?username=DylanRJ&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=dark)
