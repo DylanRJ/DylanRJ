@@ -81,7 +81,7 @@ I am looking to join a team where I can bring my design experience, developing m
 
 - Highly selective 16 week software development bootcamp.
 - Emphasis on test-driven development (TDD), pair-programming and agile workflows alongside emotional intelligence and XP values.
-- Focus on becoming "language agnostic", able to learn and adapt to new languages with ease.
+- Focus on becoming "language agnostic"; able to learn and adapt to new languages with ease.
 - Encouraged independant learning and problem-solving.
 - Specifically taught Ruby (with Rspec) and JavaScript (with Jest).
 - Full stack web development, including web frameworks like Ruby on Rails and ReactJs.
