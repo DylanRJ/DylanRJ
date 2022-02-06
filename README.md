@@ -77,7 +77,7 @@ I am looking to join a team where I can bring my design experience, developing m
 
 ### [Makers Academy]
 
-**Software Development Bootcamp** (September 2021 - January 2022)
+**Software Engineering** (September 2021 - January 2022)
 
 - Highly selective 16 week software development bootcamp.
 - Emphasis on Test-driven development (TDD), pair-programming and agile workflows, as well as emotional intelligence and XP values.
