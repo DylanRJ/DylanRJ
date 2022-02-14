@@ -15,23 +15,22 @@ I am looking to join a team where I can bring my design experience, developing m
 
 ## Skills
 
-- HTML
-- CSS
-- Bootstrap
-- Javascript (ES6+)
-- React
-- Node.js
-- Jest
-- Ruby
-- Rails
-- Rspec
-- Capybara
-- ProstgreSQL
-- Test-driven development (TDD)
-- Object-Oriented Design (OOD)
-- Pair Programming
-- Functional programming
-- Git and Unix shell
+### Tech skills
+
+- JavaScript (React, Node, Express, Jest)
+- Ruby (Rails, Sinatra, Rspec, Capybara)
+- SQL (PostgreSQL, SQLite)
+- HTML, CSS, Bootstrap
+- Heroku
+- Git, GitHub, Command-line
+
+### Professional skills
+
+#### Communication
+
+#### Problem Solving
+
+#### Adaptability
 
 ## Experience
 
