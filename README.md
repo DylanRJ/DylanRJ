@@ -39,35 +39,36 @@ I am looking to join a team where I can bring my design experience, developing m
 
 **Systems Analyst** (January 2020 - June 2021)
 
-- Redesigning data architecture for finance systems and better operational use.
-- Cleansing, manipulating and creating automated processes and schedules for data. For better operational use and GDPR compliance.
-- Optimising the UX/UI for external facing processes. Forms for grant holders/grant applicants, grant holder community portal & grants enquiry process.
-- Working with directors and programme heads to build BI reports and dashboards alongside training.
+- Redesigned core platform data architecture, for finance systems and improved operational use.
+- Cleansed, manipulated and created platform automated processes and flows for data; improving organisational use and GDPR compliance.
+- Designing UX/UI for front-end systems - data collection forms for grant holders/grant applicants, grant holder community portal & grants enquiry process.
+- Worked with directors and programme heads to build BI reports and dashboards alongside training.
 
 ### London and Partners
 
 **CRM Consultant** (December 2019)
 
-- Finalising SAML Single Sign-On from Salesforce Community to Business Insights on Market Logic Software (MLS). 
+- Finalised SAML Single Sign-On from Salesforce Community to Business Insights on Market Logic Software (MLS).
 - Concluding and improving community functionality for the partnerships team. UX/UI enhancements based on tester feedback.
-- Assisting scoping and requirements gathering for Eventbrite integration.
+- Assisted scoping and requirements gathering for Eventbrite integration.
 
 ### Ceterna
 
 **Consultant** (August 2019 - November 2019)
 
-- Conducting client business-process workshops.
-- Requirements gathering and documentation (either through initial scoping calls, webchat or workshops).
-- Salesforce platform configuration: creating reports and dashboards, utilising automation tools process builder and flows.
-- Working with internal Junior Consultants to mentor, train and support when required.
+- Conducted client business-process workshops.
+- Created project documentation using information gathered from scoping calls and workshops.
+- Core salesforce platform configuration: creating reports and dashboards, utilising automation tools process builder and flows.
+- Worked with internal Junior Consultants to mentor, train and support when required.
 
 ### Alicorn Digital
 
 **Junior Consultant** (October 2018 - July 2019)
 
-- Providing assistance with creation and demonstration of proof of concept solutions with a Solution Engineer. 
-- Conducting client business-process workshops.
-- Platform configuration: creating reports and dashboards, utilising platform automation tools.
+- Assisted with the creation and demonstration of proof of concept solutions alongside a Solution Engineer. 
+- Conducted client business-process workshops.
+- Created project documentation using information gathered from scoping calls and workshops.
+- Core salesforce platform configuration: creating reports and dashboards, utilising automation tools process builder and flows.
 
 #### Certifications
 
