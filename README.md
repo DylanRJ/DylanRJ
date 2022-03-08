@@ -3,6 +3,7 @@
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education)
 
 I am an aspiring and driven full-stack developer who likes to build beautiful user experiences and solid, maintainable code for the long-term with the best technologies available. After rethinking my career direction, I decided to enrol on the Makers Academy software development bootcamp.
+
 Now a Makers Academy scholarship graduate, I am keen to join a team with a positive and supportive environment where I can bring my design experience. Developing my skills and knowledge of programming, following professional programming principles and having individual and team growth encouraged.
 
 ## Projects
