@@ -18,10 +18,10 @@ I am looking to join a team where I can bring my design experience, developing m
 
 ### Tech skills
 
-- JavaScript (React, Node, Express, Jest)
 - Ruby (Rails, Sinatra, Rspec, Capybara)
-- SQL (PostgreSQL, SQLite)
+- JavaScript (React, Node, Express, Jest)
 - HTML, CSS, Bootstrap
+- SQL (PostgreSQL, SQLite)
 - Heroku
 - Git, GitHub, Command-line
 
