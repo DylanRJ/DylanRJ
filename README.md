@@ -103,7 +103,7 @@ During earlier employment experience, my responsibilities varied between underst
 
 ![All Stats](https://github-readme-stats.vercel.app/api?username=DylanRJ&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRJ&layout=compact&theme=dark&langs_count=3&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRJ&layout=compact&theme=dark&langs_count=3&hide=html&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hobbies
 
