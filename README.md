@@ -12,7 +12,7 @@ I am looking to join a team where I can bring my design experience, developing m
 | ---- | ----------- | ---------- |
 | **[Acebook]** | A webapp to replicate Facebook. | Ruby/Rails, React, Bootstrap, RSpec |
 | **[Sweepstake]** | A webapp to generate football sweepstakes. | Ruby/Rails, Bootstrap, RSpec |
-| **[MakersBnb]** | A webapp to replicate Airbnb | Ruby/Rails, Bootstrap, RSpec |
+| **[Makersbnb]** | A webapp to replicate Airbnb | Ruby/Rails, Bootstrap, RSpec |
 
 ## Skills
 
