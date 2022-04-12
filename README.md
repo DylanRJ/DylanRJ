@@ -117,4 +117,4 @@ During earlier employment experience, my responsibilities varied between underst
 [sweepstake]: https://github.com/DylanRJ/sweepstake
 [makersbnb]: https://github.com/DylanRJ/MakersBnB
 [makers academy]: https://www.makers.tech
-[bank test]: https://github.com/DylanRJ/bank_test
+[bank js]: https://github.com/DylanRJ/bank_test
