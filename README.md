@@ -13,6 +13,7 @@ Now a Makers Academy scholarship graduate, I am keen to join a team with a posit
 | **[Acebook]** | A webapp to replicate Facebook. | Ruby/Rails, React, Bootstrap, RSpec |
 | **[Sweepstake]** | A webapp to generate football sweepstakes. | Ruby/Rails, Bootstrap, RSpec |
 | **[Makersbnb]** | A webapp to replicate Airbnb | Ruby/Rails, Bootstrap, RSpec |
+| **[Bank Test]** | Command line bank account emulator | JavaScript(ES6), Jest |
 
 ## Skills
 
@@ -116,3 +117,4 @@ During earlier employment experience, my responsibilities varied between underst
 [sweepstake]: https://github.com/DylanRJ/sweepstake
 [makersbnb]: https://github.com/DylanRJ/MakersBnB
 [makers academy]: https://www.makers.tech
+[bank test]: https://github.com/DylanRJ/bank_test
